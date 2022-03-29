@@ -1,4 +1,4 @@
-### Opa! Meu nome é guilherme e seja bem muito bem vindo!
+### Opa! Meu nome é Guilherme e seja bem muito bem vindo!
 
 - 🌱 Atualmente estou aprendendo C#, JS, NodeJS e o que a facul me faz estudar. 😄
 - 💬 Cruto games, boa música e topo colaborar naquele projetinho para ganhar xp. ⚡
