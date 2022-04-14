@@ -1,7 +1,7 @@
 ### Opa! Meu nome é Guilherme e seja bem muito bem vindo!
 
 - 🌱 Atualmente estou aprendendo C#, JS, NodeJS e o que a facul me faz estudar. 😄
-- 💬 Cruto games, boa música e topo colaborar naquele projetinho para ganhar xp. ⚡
+- 💬 Curto games, boa música e topo colaborar naquele projetinho para ganhar xp. ⚡
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuigoDev&layout=compact&bg_color=FFFFFF&title_color=151515&text_color=151515)
