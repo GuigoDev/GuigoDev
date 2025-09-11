@@ -21,9 +21,8 @@ Fique de olho nas novidades por aqui! 👀✨
 ---
 
 ## 📊 Estatísticas do GitHub
-
-![GuigoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRomeroGuilherme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRomeroGuilherme&layout=compact&theme=tokyonight&hide_border=true)  
-
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheRomeroGuilherme&show_icons=true&theme=graywhite&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRomeroGuilherme&layout=compact&theme=graywhite&hide_border=true"/>
+</div>
 ---
