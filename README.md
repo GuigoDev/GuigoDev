@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o GuigoDev!
+# 👋 Olá, eu sou o Guilherme!
 
 🎮 **Estudante de Sistemas de Informação (5º período)** apaixonado por **desenvolvimento de jogos** e pelo universo da programação.  
 🚀 Em busca de transformar ideias em experiências interativas e imersivas!  
@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 Tecnologias que estudo e utilizo
-- 🔹 **C#** → Minha principal linguagem para desenvolvimento de jogos (Unity ❤️)  
+- 🔹 **C#** → Minha principal linguagem para desenvolvimento de jogos (Unity)  
 - 🔹 **Java** → Forte base em orientação a objetos  
 - 🔹 **Kotlin** → Explorando o mundo mobile  
 - 🔹 **React.js** → Criando interfaces dinâmicas e modernas  
