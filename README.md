@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/jx17oHt.gif" width="600" alt="GuigoDev Banner Pixel Art">
-</p>
-
 <h1 align="center">👾 Olá, eu sou o Guilherme!</h1>
 
 🎮 **Estudante de Sistemas de Informação** apaixonado por **desenvolvimento de jogos**.  
