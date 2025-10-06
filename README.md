@@ -15,8 +15,7 @@
 ---
 
 ## 🚧 Projetos
-📌 Atualmente desenvolvendo um projeto especial (em andamento) que une minhas paixões por **jogos** e **tecnologia**.  
-Fique de olho nas novidades por aqui! 👀✨  
+📌 Atualmente desenvolvendo um projeto especial (em andamento) que une minhas paixões por **jogos** e **tecnologia**.  👀✨  
 
 ---
 
