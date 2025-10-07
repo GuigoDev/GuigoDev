@@ -1,4 +1,4 @@
-<h1 align="center">👾 Olá, eu sou o Guilherme!</h1>
+<h1 align="center">👾 Olá, me chamo Guilherme!</h1>
 
 🎮 **Estudante de Sistemas de Informação** apaixonado por **desenvolvimento de jogos**.  
 🚀 Em busca de transformar ideias em experiências interativas e imersivas!  
