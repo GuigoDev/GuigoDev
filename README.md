@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante do 6º período de **Sistemas de Informação** na Universidade Positivo. Apaixonado por tecnologia e desenvolvimento de jogos, atualmente estou focado em engenharia de software e arquitetura de sistemas.
+Sou estudante de **Sistemas de Informação** na Universidade Positivo. Apaixonado por tecnologia e desenvolvimento de jogos.
 
 Minha jornada técnica combina o rigor do **Back-end (Java & C#)** com a criatividade do **Front-end e Mobile (Flutter)**. Gosto de entender como as coisas funcionam "por baixo do capô", desde protocolos de rede até a experiência do usuário final.
 
