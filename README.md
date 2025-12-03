@@ -64,15 +64,15 @@ Minha jornada técnica combina o rigor do **Back-end (Java & C#)** com a criativ
 <div align="center">
   <h3>👤 TheRomeroGuilherme</h3>
   <a href="https://github.com/TheRomeroGuilherme">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheRomeroGuilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRomeroGuilherme&layout=compact&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheRomeroGuilherme&show_icons=true&theme=dracula&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRomeroGuilherme&layout=compact&theme=dracula&hide_border=true"/>
   </a>
 
-  <br><br>
+  <br>
 
   <h3>👤 GuigoDev</h3>
   <a href="https://github.com/GuigoDev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuigoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuigoDev&layout=compact&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuigoDev&show_icons=true&theme=dracula&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuigoDev&layout=compact&theme=dracula&hide_border=true"/>
   </a>
 </div>
