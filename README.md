@@ -1,4 +1,4 @@
-<h1 align="center">👾 Olá, me chamo Guilherme!</h1>
+<h1 align="center">Olá, me chamo Guilherme!</h1>
 
 <p align="center">
   <em>"Transformando café em código e ideias em software."</em>
