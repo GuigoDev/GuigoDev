@@ -61,22 +61,3 @@ Minha jornada técnica combina o rigor do **Back-end (Java & C#)** com a criativ
 | **[Robô Sumô Autônomo](https://www.tinkercad.com/things/h7SAvoDv3Ps-copy-of-circuito-base-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)** | `C++` `Arduino` | Lógica de movimentação autônoma para competição de robótica (2º Lugar 🥈). |
 
 ---
-
-### 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td><b>Perfil Principal (GuigoDev)</b></td>
-    <td><b>Perfil Acadêmico / Estudos</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=GuigoDev&show_icons=true&theme=dracula&v=2" /><br><br>
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuigoDev&layout=compact&theme=dracula&v=2" />
-    </td>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheRomeroGuilherme&show_icons=true&theme=dracula&v=2" /><br><br>
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRomeroGuilherme&layout=compact&theme=dracula&v=2" />
-    </td>
-  </tr>
-</table>
