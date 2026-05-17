@@ -6,7 +6,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-romero-06586a289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:guilherme.romero074@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="mailto:guilherme.romero074@gmail.com?subject=Contato%20via%20GitHub">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -55,8 +57,8 @@ Minha jornada técnica combina o rigor do **Back-end (Java & C#)** com a criativ
 | :--- | :--- | :--- |
 | **[Gestão de Usuários Full Stack](https://github.com/TheRomeroGuilherme/ProjectSpringBootAndFlutter)** | `Java` `Spring Boot` `Flutter` | Sistema completo com API RESTful no backend e App Flutter (Web/Desktop) no frontend. |
 | **[Distribuidora de Bebidas](https://github.com/TheRomeroGuilherme/DistribuidoraBebidas)** | `C#` `ASP.NET` `SQL` | E-commerce focado em arquitetura backend, regras de negócio e otimização de banco de dados. |
-| **[Batalha Naval Multiplayer](https://github.com/TheRomeroGuilherme)** | `Java` `TCP/IP` `Sockets` | Jogo distribuído em rede local utilizando comunicação via Sockets puros. |
-| **[Robô Sumô Autônomo](https://github.com/TheRomeroGuilherme)** | `C++` `Arduino` | Lógica de movimentação autônoma para competição de robótica (2º Lugar 🥈). |
+| **[Batalha Naval Multiplayer](https://https://github.com/TheRomeroGuilherme/BatalhaNavalJava)** | `Java` `TCP/IP` `Sockets` | Jogo distribuído em rede local utilizando comunicação via Sockets puros. |
+| **[Robô Sumô Autônomo](https://www.tinkercad.com/things/h7SAvoDv3Ps-copy-of-circuito-base-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)** | `C++` `Arduino` | Lógica de movimentação autônoma para competição de robótica (2º Lugar 🥈). |
 
 ---
 
