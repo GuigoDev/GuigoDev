@@ -71,12 +71,12 @@ Minha jornada técnica combina o rigor do **Back-end (Java & C#)** com a criativ
   </tr>
   <tr>
     <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuigoDev&show_icons=true&theme=dracula&include_all_commits=true" /><br>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuigoDev&layout=compact&theme=dracula" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=GuigoDev&show_icons=true&theme=dracula&include_all_commits=true&v=1" /><br><br>
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuigoDev&layout=compact&theme=dracula&v=1" />
     </td>
     <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheRomeroGuilherme&show_icons=true&theme=dracula&include_all_commits=true" /><br>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRomeroGuilherme&layout=compact&theme=dracula" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheRomeroGuilherme&show_icons=true&theme=dracula&include_all_commits=true&v=1" /><br><br>
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRomeroGuilherme&layout=compact&theme=dracula&v=1" />
     </td>
   </tr>
 </table>
