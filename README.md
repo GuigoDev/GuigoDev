@@ -1,11 +1,11 @@
-<h1 align="center">Olá, me chamo Guilherme!</h1>
+<h1 align="center">👾 Olá, me chamo Guilherme!</h1>
 
 <p align="center">
   <em>"Transformando café em código e ideias em software."</em>
 </p>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/guilherme-romero-06586a289/](https://www.linkedin.com/in/guilherme-romero-06586a289/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/guilherme-romero-06586a289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:guilherme.romero074@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -53,10 +53,10 @@ Minha jornada técnica combina o rigor do **Back-end (Java & C#)** com a criativ
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **[Gestão de Usuários Full Stack](https://github.com/TheRomeroGuilherme/ProjectSpringBootAndFlutter)** | `Java` `Spring Boot` `Flutter` | [cite_start]Sistema completo com API RESTful no backend e App Flutter (Web/Desktop) no frontend[cite: 43]. |
-| **[Distribuidora de Bebidas](https://github.com/TheRomeroGuilherme/DistribuidoraBebidas)** | `C#` `ASP.NET` `SQL` | [cite_start]E-commerce focado em arquitetura backend, regras de negócio e otimização de banco de dados[cite: 49]. |
-| **[Batalha Naval Multiplayer](https://github.com/TheRomeroGuilherme)** | `Java` `TCP/IP` `Sockets` | [cite_start]Jogo distribuído em rede local utilizando comunicação via Sockets puros[cite: 48]. |
-| **[Robô Sumô Autônomo](https://github.com/TheRomeroGuilherme)** | `C++` `Arduino` | [cite_start]Lógica de movimentação autônoma para competição de robótica (2º Lugar 🥈)[cite: 50, 51]. |
+| **[Gestão de Usuários Full Stack](https://github.com/TheRomeroGuilherme/ProjectSpringBootAndFlutter)** | `Java` `Spring Boot` `Flutter` | Sistema completo com API RESTful no backend e App Flutter (Web/Desktop) no frontend. |
+| **[Distribuidora de Bebidas](https://github.com/TheRomeroGuilherme/DistribuidoraBebidas)** | `C#` `ASP.NET` `SQL` | E-commerce focado em arquitetura backend, regras de negócio e otimização de banco de dados. |
+| **[Batalha Naval Multiplayer](https://github.com/TheRomeroGuilherme)** | `Java` `TCP/IP` `Sockets` | Jogo distribuído em rede local utilizando comunicação via Sockets puros. |
+| **[Robô Sumô Autônomo](https://github.com/TheRomeroGuilherme)** | `C++` `Arduino` | Lógica de movimentação autônoma para competição de robótica (2º Lugar 🥈). |
 
 ---
 
@@ -64,8 +64,8 @@ Minha jornada técnica combina o rigor do **Back-end (Java & C#)** com a criativ
 
 <table align="center">
   <tr>
-    <td int_value="1"><b>Perfil Principal (GuigoDev)</b></td>
-    <td int_value="2"><b>Perfil Acadêmico / Estudos</b></td>
+    <td><b>Perfil Principal (GuigoDev)</b></td>
+    <td><b>Perfil Acadêmico / Estudos</b></td>
   </tr>
   <tr>
     <td>
